@@ -19,7 +19,7 @@ public class Cheers {
         }
         System.out.println("What does that spell?");
         for (int j = 0; j < Integer.parseInt(args[1]); j++) {
-             System.out.println("RUNI!!!");
+             System.out.println(s+"!!!");
         }
         }    
 }
